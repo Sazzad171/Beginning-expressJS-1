@@ -1,0 +1,13 @@
+npm init -y	-> initialize npm
+npm i express	-> setup express
+npm i moment	-> for take current date
+npm i uuid	-> need for create new data (unique id)
+npm i express-handlebars -> renderding templates
+
+postman		-> for api check
+
+middleware	-> when api called then work it
+
+for rendering template with handlebars need make folder structure
+
+passport.js	-> auth-jwt
